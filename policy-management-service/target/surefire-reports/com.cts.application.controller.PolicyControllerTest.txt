@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.cts.application.controller.PolicyControllerTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 21.206 sec - in com.cts.application.controller.PolicyControllerTest
